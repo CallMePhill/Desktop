@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "error_functions.h": "c",
+        "tlpi_hdr.h": "c",
+        "string.h": "c",
+        "iostream": "cpp",
+        "random": "c"
+    },
+
+    "workbench.colorCustomizations": {
+        "tab.activeBorderTop": "#5cf1cea7",
+        "tab.activeBackground": "#2b3432"
+    },
+    "editor.lineNumbers": "on"
+}
